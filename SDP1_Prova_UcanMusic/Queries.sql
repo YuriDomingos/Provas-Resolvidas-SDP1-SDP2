@@ -7,6 +7,11 @@ Objectivo : Realizar as queries nativas,para prova
 Problema : UCanMusic
 */
 
+/*
+Estes selects eh se quiseres testar as consultas no teu pgAdmin, sem nenhum contacto com o java, copiar e colar no 
+query tool do pgAdmin da base de dados 
+
+*/
 
 
 /*Primeiro select */
